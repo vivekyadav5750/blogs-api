@@ -1,0 +1,23 @@
+reacts - df9
+web    - dfc
+function - 5fd
+nodejs  - 42c
+
+fist access old tag id
+        function, nodejs
+
+in new_post :  only nodejs
+
+if old tag not in new tag_id:
+    old_tag remove tag
+
+
+for oldtag in old_tags_id:
+    if not oldtga in new_tags_id:
+        remove postid from oldtag
+
+mera post update ho chuka h ..i have to update only tag 
+
+
+delete
+

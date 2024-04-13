@@ -29,6 +29,12 @@ Blog API is a Node.js application built with Express.js and MongoDB. It provides
 - `/searchPostsByDateRange` (GET): Search posts within a specified date range.
 - `/searchPostsByTags` (GET): Search posts by tags.
 
+## Technologies Used
+
+- Node.js
+- Express.js
+- MongoDB
+
 ## How to Run || Installation
 
 To run this project locally, follow these steps:

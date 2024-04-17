@@ -2,6 +2,10 @@
 
 Blog API is a Node.js application built with Express.js and MongoDB. It provides a backend service for managing blog posts, tags, and user authentication.
 
+## Video Link
+[Watch the video here](https://drive.google.com/file/d/1rOWc6w6s-Ut3B1NBYqTsh317qA04_Rws/view?usp=drivesdk)
+
+
 ## Features
 
 1. **Post and Tags Management:** Posts and tags are stored in separate tables with a many-to-many relationship with blog posts and users.
